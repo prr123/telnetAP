@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"golang.org/x/crypto/ssh/terminal"
+	"golang.org/x/terminal"
 )
 
 const (
