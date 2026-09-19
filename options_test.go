@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aprice/telnet"
+	"github.com/prr123/telnet"
 )
 
 func TestServerNAWS(t *testing.T) {
