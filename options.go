@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"golang.org/x/term"
+	terminal "golang.org/x/term"
 )
 
 const (
