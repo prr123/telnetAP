@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prr123/telnet"
+	"github.com/prr123/telnetAP"
 )
 
 func TestServer_ListenAndServe(t *testing.T) {
