@@ -1,5 +1,7 @@
 # Package telnet
 
+forked from github.com/APrice/telnet
+
 The [`telnet` package](http://godoc.org/github.com/aprice/telnet) provides basic
 telnet client and server implementations for Go, including handling of IACs and
 extensible telnet option negotiation.
